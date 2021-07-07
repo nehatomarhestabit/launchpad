@@ -1,0 +1,19 @@
+/* 
+Theme Name:		 Health Service Child
+Theme URI:		 http://childtheme-generator.com/
+Description:	 Health Service Child is a child theme of Health Service, created by ChildTheme-Generator.com
+Author:			 wptexture
+Author URI:		 http://childtheme-generator.com/
+Template:		 health-service
+Version:		 1.0.0
+Text Domain:	 health-service-child
+*/
+
+.blogposts .blogposts__info{
+    border: 1px solid #ccc;   
+    border-top: 0;
+    padding: 1em;
+}
+a {
+    color: #000;
+}

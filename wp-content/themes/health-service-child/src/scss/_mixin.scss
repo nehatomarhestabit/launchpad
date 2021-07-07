@@ -1,0 +1,13 @@
+@mixin heading($size,$color,$weight,$letter_spacing,$text-transform) { //mixin
+    font-size:$size;
+    color:$color;
+    font-weight: $weight;
+    letter-spacing: $letter_spacing;
+    text-transform: $text-transform;
+  }
+  @mixin border($width,$style,$color) { //mixin
+    border-width:$width ;
+    border-style:$style ;
+    border-color:$color ;
+  
+  }
